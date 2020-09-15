@@ -8,3 +8,6 @@
 > npm install
 
 打开creator即可使用插件
+
+
+目前使用的creator版本2.4.0
