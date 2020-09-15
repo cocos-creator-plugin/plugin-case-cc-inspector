@@ -57,8 +57,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="206" />
-    <option name="y" value="66" />
+    <option name="x" value="61" />
+    <option name="y" value="255" />
     <option name="width" value="1020" />
     <option name="height" value="825" />
   </component>
@@ -90,6 +90,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.0.0" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
