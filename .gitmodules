@@ -1,0 +1,3 @@
+[submodule "packages/cc-inspector"]
+	path = packages/cc-inspector
+	url = git@github.com:cocos-creator-plugin/cc-inspector.git
